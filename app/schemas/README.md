@@ -1,0 +1,1 @@
+Create application models (data type, DTO, etc..)
